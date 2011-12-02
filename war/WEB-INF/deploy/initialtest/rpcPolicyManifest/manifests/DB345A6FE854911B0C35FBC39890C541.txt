@@ -1,0 +1,2 @@
+serviceClass: com.mike.gwt.client.GreetingService
+path: 98549D2407E718FF957F5EF2A1BF45A7.gwt.rpc
